@@ -13,3 +13,5 @@ app.get('/date', (req, res) => {
 })
 
 app.listen(3001)
+
+module.exports = app
